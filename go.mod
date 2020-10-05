@@ -1,4 +1,4 @@
-module github.com/yowcow/pidfile
+module github.com/voyagegroup/pidfile
 
 go 1.13
 

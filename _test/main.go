@@ -8,7 +8,7 @@ import (
 
 	syscall "golang.org/x/sys/unix"
 
-	"github.com/yowcow/pidfile"
+	"github.com/voyagegroup/pidfile"
 )
 
 func main() {
